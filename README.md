@@ -1,0 +1,2 @@
+# JpaProject
+Learning the JPA 
